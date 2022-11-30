@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.platform    = Gem::Platform::RUBY
   s.name        = "rubocop-workstream"
   s.version     = "1.0.0"
   s.summary     = "Workstream's style guide for Ruby."
