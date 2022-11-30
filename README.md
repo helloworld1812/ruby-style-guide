@@ -32,7 +32,7 @@ We offer a default RuboCop configuration you can inherit from and be in sync
 with this Style Guide. To use it, you can add this to your `Gemfile`:
 
   ~~~ruby
-  gem "rubocop-workstream", require: false
+  gem 'rubocop-rails', require: false, github: 'helloworld1812/rubocop-workstream'
   ~~~
 
 And add to the top of your project's RuboCop configuration file:
