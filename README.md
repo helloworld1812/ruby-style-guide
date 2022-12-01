@@ -6,18 +6,14 @@ permalink: '/'
 
 # Ruby Style Guide
 
-Ruby is the main language at workstream. We are primarily a Ruby shop and we are
-probably one of the largest out there. Ruby is the go-to language for new web
-projects and scripting.
-
-We expect all developers at workstream to have at least a passing understanding of
+Ruby is the main language at Workstream. We expect all developers at Workstream to have at least a passing understanding of
 Ruby. It's a great language. It will make you a better developer no matter what
 you work in day to day. What follows is a loose coding style to follow while
 developing in Ruby.
 
-This Style Guide is the result of over a decade of Ruby development at workstream.
+This Style Guide is the result of over a decade of Ruby development at Workstream.
 Much of its content is based on Bozhidar Batsov's [Ruby Style
-Guide](https://github.com/rubocop-hq/ruby-style-guide), adapted to workstream by
+Guide](https://github.com/rubocop-hq/ruby-style-guide), adapted to Workstream by
 [many
 contributors](https://github.com/workstream/ruby-style-guide/graphs/contributors).
 
