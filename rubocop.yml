@@ -545,16 +545,16 @@ Style/MapToHash:
   Enabled: false
 
 Style/MethodCallWithArgsParentheses:
+  Enabled: false
+
+Style/MethodCallWithoutArgsParentheses:
   Enabled: true
-  AllowedMethods:
-  - require
-  - require_relative
-  - require_dependency
-  - yield
-  - raise
-  - puts
-  Exclude:
-  - "/**/Gemfile"
+
+Style/MethodCalledOnDoEndBlock:
+  Enabled: false
+
+Style/MethodDefParentheses:
+  Enabled: true
 
 Style/MinMax:
   Enabled: false
