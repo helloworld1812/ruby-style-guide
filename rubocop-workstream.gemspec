@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
 
   s.author   = "Workstream Engineering"
   s.email    = "engineering@workstream.is"
-  s.homepage = "https://github.com/helloworld1812/rubocop-workstream"
+  s.homepage = "https://github.com/helloworld1812/ruby-style-guide"
 
   s.files = ["rubocop.yml"]
 

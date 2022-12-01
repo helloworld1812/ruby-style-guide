@@ -4,7 +4,7 @@ inherit_mode:
   - Include
 
 AllCops:
-  StyleGuideBaseURL: https://github.com/helloworld1812/rubocop-workstream/blob/master/README.md
+  StyleGuideBaseURL: https://github.com/helloworld1812/ruby-style-guide/blob/master/README.md
 
 Bundler/OrderedGems:
   Enabled: false
