@@ -701,7 +701,7 @@ Style/StringConcatenation:
   Enabled: false
 
 Style/StringLiterals:
-  EnforcedStyle: double_quotes
+  Enabled: false
 
 Style/StringLiteralsInInterpolation:
   EnforcedStyle: double_quotes
