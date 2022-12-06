@@ -1035,19 +1035,6 @@ documentation](https://docs.rubocop.org/rubocop/configuration.html#inheriting-co
   "From: #{user.first_name}, #{user.last_name}"
   ~~~
 
-* Use double-quoted strings.
-
-  ~~~ ruby
-  # bad
-  'Just some text'
-  'No special chars or interpolation'
-
-  # good
-  "Just some text"
-  "No special chars or interpolation"
-  "Every string in #{project} uses double_quotes"
-  ~~~
-
 * Avoid the character literal syntax `?x`.
 
 * Use `{}` around instance and global variables being interpolated into a
