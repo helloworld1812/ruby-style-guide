@@ -718,15 +718,6 @@ Style/SymbolArray:
 Style/TrailingBodyOnMethodDefinition:
   Enabled: false
 
-Style/TrailingCommaInArguments:
-  EnforcedStyleForMultiline: comma
-
-Style/TrailingCommaInArrayLiteral:
-  EnforcedStyleForMultiline: consistent_comma
-
-Style/TrailingCommaInHashLiteral:
-  EnforcedStyleForMultiline: consistent_comma
-
 Style/TrailingMethodEndStatement:
   Enabled: false
 
