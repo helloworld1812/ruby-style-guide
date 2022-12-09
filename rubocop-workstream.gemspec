@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = "rubocop-workstream"
-  s.version     = "1.0.0"
+  s.version     = "1.0.4"
   s.summary     = "Workstream's style guide for Ruby."
   s.description = "Gem containing the rubocop.yml config that corresponds to "\
     "the implementation of the Workstream's style guide for Ruby."
