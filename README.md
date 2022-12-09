@@ -913,21 +913,6 @@ documentation](https://docs.rubocop.org/rubocop/configuration.html#inheriting-co
   STATES = ["draft", "open", "closed"]
   ~~~
 
-* Append a trailing comma in multi-line collection literals.
-
-  ~~~ ruby
-  # bad
-  {
-    foo: :bar,
-    baz: :toto
-  }
-
-  # good
-  {
-    foo: :bar,
-    baz: :toto,
-  }
-  ~~~
 
 * When accessing the first or last element from an array, prefer `first` or
   `last` over `[0]` or `[-1]`.
