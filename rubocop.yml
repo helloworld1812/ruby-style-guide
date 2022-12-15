@@ -330,21 +330,6 @@ Naming/HeredocDelimiterCase:
 Naming/HeredocDelimiterNaming:
   Enabled: false
 
-Naming/InclusiveLanguage:
-  Enabled: true
-  FlaggedTerms:
-    master:
-      Suggestions:
-        - main
-        - primary
-        - leader
-      AllowedRegex:
-        - !ruby/regexp '/master[_\s\.]key/' # Rails master key
-        - 'blob/master/'
-        - 'origin/master'
-        - 'mastercard'
-        - 'webmaster'
-
 Naming/MemoizedInstanceVariableName:
   Enabled: false
 
