@@ -348,6 +348,13 @@ Naming/RescuedExceptionsVariableName:
 Naming/VariableNumber:
   Enabled: false
 
+Rails/UnknownEnv:
+  Environments:
+    - production
+    - develop
+    - test
+    - staging
+
 Security/CompoundHash:
   Enabled: false
 
