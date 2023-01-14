@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rubocop-workstream (1.0.5)
+    rubocop-workstream (1.0.6)
       rubocop (~> 1.37)
 
 GEM
