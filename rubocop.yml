@@ -354,6 +354,7 @@ Rails/UnknownEnv:
     - develop
     - test
     - staging
+    - development
 
 Security/CompoundHash:
   Enabled: false
