@@ -19,7 +19,7 @@ Gemspec/RequiredRubyVersion:
   Enabled: false
 
 Layout/ArgumentAlignment:
-  EnforcedStyle: with_fixed_indentation
+  Enabled: false
 
 Layout/CaseIndentation:
   EnforcedStyle: end
