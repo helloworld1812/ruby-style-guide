@@ -33,11 +33,10 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
-  arm64-darwin-25
 
 DEPENDENCIES
   rake (~> 13.0)
   rubocop-workstream!
 
 BUNDLED WITH
-  4.0.16
+   2.3.4
